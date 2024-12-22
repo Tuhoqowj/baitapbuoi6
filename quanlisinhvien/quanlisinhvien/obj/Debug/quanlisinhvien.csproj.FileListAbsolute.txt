@@ -1,0 +1,15 @@
+D:\c#\quanlisinhvien\quanlisinhvien\bin\Debug\quanlisinhvien.exe.config
+D:\c#\quanlisinhvien\quanlisinhvien\bin\Debug\quanlisinhvien.exe
+D:\c#\quanlisinhvien\quanlisinhvien\bin\Debug\quanlisinhvien.pdb
+D:\c#\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.AssemblyReference.cache
+D:\c#\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.Form1.resources
+D:\c#\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.Properties.Resources.resources
+D:\c#\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.GenerateResource.cache
+D:\c#\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.CoreCompileInputs.cache
+D:\c#\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.exe
+D:\c#\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.pdb
+D:\c#\quanlisinhvien\quanlisinhvien\bin\Debug\EntityFramework.dll
+D:\c#\quanlisinhvien\quanlisinhvien\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\quanlisinhvien\quanlisinhvien\bin\Debug\EntityFramework.xml
+D:\c#\quanlisinhvien\quanlisinhvien\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisi.08040BA9.Up2Date
